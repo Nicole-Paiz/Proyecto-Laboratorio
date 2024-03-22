@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1711061157 source:c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1711061157 c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\include\fecha.h
+	<iostream>
+
+1711059592 source:c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\src\pago.cpp
+	"Pago.h"
+	<iostream>
+
+1711061157 c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\include\pago.h
+	<string.h>
+	"Fecha.h"
+
+1711061279 source:c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\src\cliente.cpp
+	"Cliente.h"
+
+1711061157 c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\include\cliente.h
+	<iostream>
+	<string.h>
+
+1711062222 source:c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+
+1711061157 c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
+1711061366 source:c:\users\mineducyt\desktop\lab program ii\laboratorio-ejercicio1\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
